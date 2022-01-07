@@ -1,0 +1,3 @@
+Promise.promisifyAll(require("mysql/lib/Connection").prototype);
+
+https://testmoz.com/q/11321144
